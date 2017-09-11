@@ -1,7 +1,7 @@
 var a
 var b
-function add() {
-  a+=b
+function add(a,b) {
+  a += b
 }
 console.log(a)
 function subtract() {
