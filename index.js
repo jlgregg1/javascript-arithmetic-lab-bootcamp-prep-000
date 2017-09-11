@@ -1,12 +1,6 @@
-var a
-var b
-function add(a,b) {
+var a = Math.floor(Math.random() * 1000)
+var b = Math.floor(Math.random() * 1000)
+function add() {
   a += b
 }
 console.log(a)
-function subtract() {
-  a - b
-}
-console.log(subtract)
-function multiply()
-function divide()
