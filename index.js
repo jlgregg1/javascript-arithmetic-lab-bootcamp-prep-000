@@ -1,9 +1,9 @@
 var a
 var b
 function add() {
-  a + b
+  a+=b
 }
-console.log(add)
+console.log(a)
 function subtract() {
   a - b
 }
